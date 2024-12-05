@@ -1,0 +1,59 @@
+.user-tagline-rating {
+    display: none
+}
+
+.user-rating-component {
+    visibility: hidden
+}
+
+.rating-score-rating {
+    display: none
+}
+
+.rating-score-change {
+    display: none
+}
+
+.cc-user-rating-default {
+    display: none
+}
+
+.cc-user-rating-white {
+    display: none
+}
+
+.rating-block-container {
+    visibility: hidden
+}
+
+.archive-game-info-component > div.user-selectable > div:nth-child(5) {
+    visibility: hidden
+}
+
+.stat-section-user-rating {
+    display: none
+}
+
+.game-over-message-component {
+    visibility: hidden
+}
+
+.league-score-change {
+    visibility: hidden
+}
+
+#auxilliary-stats-block > section > a > span.footer-block-title {
+    visibility: hidden
+}
+
+#auxilliary-stats-block > section > div > span.footer-block-title {
+    visibility: hidden
+}
+
+#stats-sidebar > div > div > a > .sidebar-nav-item-right {
+    display: none
+}
+
+.game-splitBlockTemp {
+    visibility: hidden
+}
