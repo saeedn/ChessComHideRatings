@@ -57,3 +57,11 @@
 .game-splitBlockTemp {
     visibility: hidden
 }
+
+.user-rating-animated-component {
+    visibility: hidden
+}
+
+.recent-attempts-chart-chart {
+    visibility: hidden
+}
